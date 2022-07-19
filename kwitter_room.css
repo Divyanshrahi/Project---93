@@ -1,0 +1,16 @@
+.body_image{
+    background-image: url("1_OyT3IzuTQXdL16bKeNufAg.gif");
+    background-position:initial;
+	background-size:cover;
+}
+.input_div_message_page label
+{
+	color: rgb(243, 7, 7);
+}
+#My_button
+{
+	width: 80%;border-radius: 15px;
+	border-width: 5px;
+	border-color: rgb(230, 251, 3);
+font-weight: bold;
+}
